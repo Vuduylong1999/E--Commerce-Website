@@ -12,6 +12,7 @@
 <body>
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta illum corrupti et, doloremque dolores iusto quam minus, natus tenetur laudantium facilis perferendis, ut tempora. Sapiente laboriosam nulla unde officiis beatae!
     <!-- NAVBAR -->
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat iste odio quidem similique repellat est laboriosam assumenda deserunt? Laborum nihil provident amet pariatur facere, voluptate earum voluptatibus tempora dicta laudantium!
 
     <nav class="navbar navbar-expand-lg" id="navbar">
         <div class="container">
