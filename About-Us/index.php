@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta illum corrupti et, doloremque dolores iusto quam minus, natus tenetur laudantium facilis perferendis, ut tempora. Sapiente laboriosam nulla unde officiis beatae!
     <!-- NAVBAR -->
 
     <nav class="navbar navbar-expand-lg" id="navbar">
